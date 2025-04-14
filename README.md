@@ -1,4 +1,4 @@
-![ChatGPT Image Apr 14, 2025, 02_54_46 PM](https://github.com/user-attachments/assets/23678fe7-ec0f-4221-9bf0-64fc8baea0a5)# Smart India Hackathon Workshop
+SMART INDIA HACKATHON
 
 # Date: 14|04|2025
 
@@ -31,20 +31,18 @@ Use graph databases to visualize and analyze connections between accounts, peopl
 Create a blockchain platform where financial institutions can securely share KYC (Know Your Customer) data and transaction logs. This improves transparency and reduces repeated onboarding.
 Smart contracts can manage data sharing permissions between banks and regulators.
 
- 4. Real-Time Risk Scoring Engine
-Build a risk engine that assigns a dynamic risk score to each transaction or user, based on location, device, transaction history, and behavior patterns.
 
+ 5. Real-Time Risk Scoring Engine
+Build a risk engine that assigns a dynamic risk score to each transaction or user, based on location, device, transaction history, and behavior patterns.
 Can be used to block or flag high-risk transactions automatically.
 
- 5. Automated SAR (Suspicious Activity Report) Generator
+ 6. Automated SAR (Suspicious Activity Report) Generator
 Use NLP and AI to generate SARs by summarizing flagged transactions and account behaviors, helping compliance teams file reports faster and more accurately.
 
- 6. Cross-Border Money Movement Tracker
+ 7. Cross-Border Money Movement Tracker
 Design a platform that tracks the flow of money across countries, flags attempts to hide sources (e.g., through shell companies or offshore accounts), and notifies relevant authorities.
 
-Could use APIs from banks, exchanges, and fintech apps for data aggregation.
-
- 7. AML Dashboard for Banks & Regulators
+ 8. AML Dashboard for Banks & Regulators
 Build a centralized dashboard that gives live insights into transaction monitoring, case investigation, KYC status, and AML alerts.
 
 Add filters, heatmaps, drill-down capabilities, and integration with alert systems.
@@ -77,6 +75,11 @@ Neo4j, Python, D3.js for visualization.
 
 
 ## Dependencies
+Mapping service- 10 days
+
+Data collection- 10 days
+
+budget- rs.1,00,000
 
 
 
